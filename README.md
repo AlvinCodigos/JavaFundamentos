@@ -1,2 +1,2 @@
 # JavaFundamentos
-39 ejercicios  resueltos
+Ejercicios resueltos Durante el curso
